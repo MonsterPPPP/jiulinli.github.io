@@ -59,4 +59,6 @@ author:
   email: vszhub@gmail.com
 
 plugins:
-  - not-pure-poole
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
